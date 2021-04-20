@@ -1,7 +1,7 @@
-# fitness_tracking
-
+# fitness tracker
+## a python notebook for visualise my recorded bike tours
 ### sure, there are many cool apps and tools to visualise your tracked data, but for increasing my python skills i want to try it by my own.
-### my agenda / my todos:
+#### my agenda / my todos:
 
 done......read a fitfile from my bike computer  
 done......parse the fitfile  
